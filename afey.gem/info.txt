@@ -1,0 +1,9 @@
+# Features
+
+This gem contains environment variables relevant to setting up new
+Unix machines to my preference.
+
+# Configuration
+
+See experimental/users/afey/g3doc/notes/cloudtop.md for instructions to set
+this gem up on a new machine.

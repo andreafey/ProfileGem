@@ -2,3 +2,7 @@ local.conf.sh
 .last_updated
 *.gem/
 .idea/*
+
+# Don't ignore these
+!afey.gem
+
